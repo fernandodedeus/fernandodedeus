@@ -1,12 +1,14 @@
 ## Bem vindos ao meu perfil 💪
 
 
-- 🔭 Trabalho como suporte de T.I para a Prefeitura de Belo Horizonte.
+- 🔭 Trabalho como suporte ao cliente em banco de dados e relatórios dinâmicos na Sync Softwares.
 - 📚 No momento, cursando Ciência da Computação.
-- 💻 Amante de JavaScript, front-end é vida.
+- 💻 Skills: Javascript, MySQL, SQLite, Crystal Reports, .NET Framework
 
 Sou um estudante procurando aprender e realizar projetos na área, tenho noções de Java e Python, porém me encontrei pelo JavaScript, uma linguagem vasta que me trás muitas possibilidades de projetos.
 No momento, utilizo meu GitHub para armazenar alguns trabalhos da faculdade, então se quiser dar uma olhada no meu desenvolvimento para a faculdade fique à vontade! espero que goste!
+
+Atualmente trabalho na empresa Sync Softwares, realizo manutenção, backup e outras atividades no MySQL, também realizo alterações e manutenção em arquivos RPT, com etiquetas e relatórios.
 
 Pretendo futuramente atualizar esse read.me e meu GitHub em geral, colocando meus projetos pessoais em prática para desenvolver assim um portifólio vasto com meus conhecimentos. 😊
 
