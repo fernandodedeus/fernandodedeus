@@ -23,11 +23,7 @@ In the future, I plan to improve this README and my GitHub profile overall by pu
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandodedeus)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="width: 200px;">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodedeus&langs_count=8" alt="Top Langs" />
-</a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodedeus&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
