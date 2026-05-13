@@ -2,15 +2,16 @@
 
 * 🔭 Currently working with customer support focused on databases and dynamic reports at Sync Softwares.
 * 📚 Computer Science student.
-* 💻 Skills: JavaScript, MySQL, SQLite, Crystal Reports, .NET Framework
+* 💻 Skills: C#, MySQL, SQLite, Crystal Reports, .NET Framework, XML
 * 🇧🇷 Brazilian developer passionate about technology and continuous learning.
 
 I'm a Computer Science student always looking to learn new things and build projects that help me grow as a developer.
-I also have experience with Java and Python, but I found myself more connected to JavaScript because of its versatility and the huge range of possibilities it offers for creating projects.
 
-At the moment, I use my GitHub mainly to store college projects and personal studies, so feel free to explore my repositories and follow my development journey!
+I have brief experience with JavaScript, Java, and Python, but I found myself more connected to C# development, especially because of the possibilities it offers for building applications and working with software solutions.
 
-Currently, I work at Sync Softwares, where I handle MySQL maintenance, backups, and database-related tasks. I also work with RPT files, labels, and dynamic reports maintenance using Crystal Reports.
+Currently, I work at Sync Softwares, where I handle MySQL maintenance, backups, and database-related tasks. I also work with RPT files, labels, dynamic reports using Crystal Reports, and occasionally XML files through Notepad++.
+
+I use my GitHub to store both college projects and personal projects, so feel free to explore my repositories and follow my development journey!
 
 In the future, I plan to improve this README and my GitHub profile overall by publishing more personal projects and building a strong portfolio that reflects my skills and experience. 😊
 
@@ -27,5 +28,6 @@ In the future, I plan to improve this README and my GitHub profile overall by pu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodedeus&langs_count=8" alt="Top Langs" />
 </a>
 </div>
+
 
 
