@@ -1,7 +1,7 @@
 # Welcome to my profile 💪
 
 * 🔭 Currently working with customer support focused on databases and dynamic reports at Sync Softwares.
-* 📚 Computer Science student.
+* 📚 Computer Science student. 8/8
 * 💻 Skills: C#, MySQL, SQLite, Crystal Reports, .NET Framework, XML
 * 🇧🇷 Brazilian developer passionate about technology and continuous learning.
 
