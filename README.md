@@ -9,7 +9,7 @@ I'm a Computer Science student always looking to learn new things and build proj
 
 I have brief experience with JavaScript, Java, and Python, but I found myself more connected to C# development, especially because of the possibilities it offers for building applications and working with software solutions.
 
-Currently, I work at Sync Softwares, where I handle MySQL maintenance, backups, and database-related tasks. I also work with RPT files, labels, dynamic reports using Crystal Reports, and occasionally XML files through Notepad++.
+Currently, I work at Sync Softwares, wher I handle MySQL maintenance, backups, and database-related tasks. I also work with RPT files, labels, dynamic reports using Crystal Reports, and occasionally XML files through Notepad++.
 
 I use my GitHub to store both college projects and personal projects, so feel free to explore my repositories and follow my development journey!
 
