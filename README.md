@@ -2,7 +2,7 @@
 
 * 🔭 Currently working with customer support focused on databases and dynamic reports at Sync Softwares.
 * 📚 Computer Science student. 8/8
-* 💻 Skills: C#, MySQL, Postgres, Crystal Reports, ASP.NET Framework, XML 
+* 💻 Skills: C#, SQL, DevExpress, ASP.NET Framework, ERP Systems
 * 🇧🇷 Brazilian developer passionate about technology and continuous learning.
 
 I'm a Computer Science student always looking to learn new things and build projects that help me grow as a developer.
